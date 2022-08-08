@@ -25,7 +25,7 @@
 
 <script>
 export default {
-  name: 'VueModel',
+  name: 'BaseInput',
 
   props: {
     value: {
